@@ -1,7 +1,0 @@
-{
-  "error": {
-    "code": "MOCK_FAILURE",
-    "message": "A configured mock failure occurred. Retry the request.",
-    "requestId": "bbe72a17-3a5b-4b36-9349-ac0a326c5457"
-  }
-}
