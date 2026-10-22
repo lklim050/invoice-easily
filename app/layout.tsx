@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Insurance Policy Console",
-  description: "Policy management console",
+  title: "Invoice Easily- Management Console",
+  description: "invoice management console",
 };
 
 export default function RootLayout({
