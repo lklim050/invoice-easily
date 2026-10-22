@@ -1,6 +1,8 @@
-# InvoicePulse ⚡
+# Invoice Easily⚡
 
-InvoicePulse is a modern, frontend-only SaaS dashboard for managing invoice lifecycles (`DRAFT`, `SENT`, `PAID`, `OVERDUE`, `VOID`). Built with **Next.js**, **TanStack Query**, and **Mock Service Worker (MSW)**, it simulates a full-stack CRUD application entirely in the browser without requiring a live backend database.
+Invoice Easily is a modern, frontend-only SaaS dashboard for managing invoice lifecycles (`DRAFT`, `SENT`, `PAID`, `OVERDUE`, `VOID`). Built with **Next.js**, **TanStack Query**, and **Mock Service Worker (MSW)**, it simulates a full-stack CRUD application entirely in the browser without requiring a live backend database.
+
+Application is deployed on **Netlify** and can be accessed at [https://invoice-easily.netlify.app](https://invoice-easily.netlify.app).
 
 ![Homepage Screenshot](./assets/homepage.png)
 
@@ -35,8 +37,8 @@ InvoicePulse is a modern, frontend-only SaaS dashboard for managing invoice life
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/invoice-pulse.git](https://github.com/your-username/invoice-pulse.git)
-   cd invoice-pulse
+   git clone [https://github.com/your-username/invoice-easily.git](https://github.com/your-username/invoice-easily.git)
+   cd invoice-easily
    ```
 2. **Install dependencies:**
    ```bash
